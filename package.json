@@ -1,0 +1,23 @@
+{
+  "name": "big-o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-quail/DSA-Big-O-Brett-Ryan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-quail/DSA-Big-O-Brett-Ryan/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-quail/DSA-Big-O-Brett-Ryan#readme",
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "prettier": "^2.1.2"
+  }
+}
